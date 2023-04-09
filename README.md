@@ -11,8 +11,8 @@
 
 
 #### :mailbox_with_mail: Connect with me:
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cananagbal/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:agbalcanan8069@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ümmetaydin/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ummetaydin080@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/)
 </br>
 </br>
@@ -90,13 +90,13 @@
 ###
 Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App](https://cananagbal.github.io/Todo-App/) <h3>[Repo](https://github.com/cananagbal/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
+[Vanilla JS Todo App](https://ummetaydin.github.io/Todo-App/) <h3>[Repo](https://github.com/ummetaydin/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 <br>
 <h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=cananagbal&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=ummetaydin&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
