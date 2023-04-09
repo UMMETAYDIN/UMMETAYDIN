@@ -1,11 +1,11 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
 ## Hi there, I'm Ümmet 
-<font color="pink"> :cat:‍:racing_motorcycle: I'm e-commerce extension but I find myself in software. </font>
+<font color="pink"> :cat:‍ I'm e-commerce extension but I find myself in software. </font>
 </br>
 <font color="pink">:fireworks: Exploring routes to new visions and be a part of the new visions. </font>
 </br>
-<font color="pink"> :face_with_monocle: A new age enthusiast. </font>
+<font color="pink"> : A new age enthusiast. </font>
 </br>
 <font color="pink">:coffee: Coffee is how I keep up with code</font>
 
