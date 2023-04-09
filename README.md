@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
-## :female-construction-worker::skin-tone-2::wave::skin-tone-2: Hi there, I'm Ümmet :female-construction-worker::skin-tone-2::wave:
+
+## :female-construction-worker::skin-tone-2::wave::skin-tone-2: Hi there, I'm CANAN :female-construction-worker::skin-tone-2::wave:
 <font color="pink"> :cat:‍:racing_motorcycle: I'm e-commerce extension but I find myself in software. </font>
 </br>
 <font color="pink">:fireworks: Exploring routes to new visions and be a part of the new visions. </font>
@@ -7,6 +8,8 @@
 <font color="pink"> :face_with_monocle: A new age enthusiast. </font>
 </br>
 <font color="pink">:coffee: Coffee is how I keep up with code</font>
+
+
 #### :mailbox_with_mail: Connect with me:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cananagbal/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:agbalcanan8069@gmail.com)
@@ -101,3 +104,4 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      alt=""
      /> <br/>
 </div>
+
